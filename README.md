@@ -4,7 +4,7 @@ Este projeto hospeda o site de um petshop fictício, no qual o cliente tem acess
 
 ## Veja a seguir algumas imagens do projeto:
 
-! [Tela de início](https://github.com/seu-usuario/seu-repositorio/raw/main/imagens/readme-files/landing.png)
+![Tela de início](imagens/readme-files/landing.png)
 ![Tela de início](https://github.com/ribmen/petShop-website/imagens/readme-files/landing.png)
 
 ![Boxes responsivas](https://github.com/ribmen/petShop-website/imagens/readme-files/features.png)
