@@ -5,11 +5,10 @@ Este projeto hospeda o site de um petshop fictício, no qual o cliente tem acess
 ## Veja a seguir algumas imagens do projeto:
 
 ![Tela de início](imagens/readme-files/landing.png)
-![Tela de início](https://github.com/ribmen/petShop-website/imagens/readme-files/landing.png)
 
-![Boxes responsivas](https://github.com/ribmen/petShop-website/imagens/readme-files/features.png)
+![Boxes responsivas](imagens/readme-files/features.png)
 
-![Rodapé](https://github.com/ribmen/petShop-website/imagens/readme-files/contacts.png)
+![Rodapé com integração básica Whatsapp e Email](imagens/readme-files/contacts.png)
 
 ## Tecnologias utilizadas:
 - HTML
